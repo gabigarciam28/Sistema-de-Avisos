@@ -1,0 +1,276 @@
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll.config
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebGrease.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\EntityFramework.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll.config
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.xml
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.xml
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll.config
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csprojAssemblyReference.cache
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CoreCompileInputs.cache
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CopyComplete
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.AssemblyReference.cache
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CoreCompileInputs.cache
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll.config
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Options.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.Security.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Owin.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Buffers.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.IO.Pipelines.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Memory.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Numerics.Vectors.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Encodings.Web.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Json.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Channels.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.ValueTuple.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebGrease.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\EntityFramework.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll.config
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Options.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.Security.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Buffers.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.IO.Pipelines.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Memory.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Numerics.Vectors.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Encodings.Web.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Json.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Channels.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.ValueTuple.xml
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll.config
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CopyComplete
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll.config
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Options.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.Security.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Owin.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Buffers.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.IO.Pipelines.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Memory.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Numerics.Vectors.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Encodings.Web.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Json.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Channels.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.ValueTuple.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebGrease.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\EntityFramework.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll.config
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Options.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.Security.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Buffers.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.IO.Pipelines.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Memory.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Numerics.Vectors.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Encodings.Web.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Json.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Channels.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\System.ValueTuple.xml
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll.config
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csprojAssemblyReference.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CoreCompileInputs.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CopyComplete
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.pdb
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll.config
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServiceOperacional.pdb
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Common.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Options.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Primitives.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.Security.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Owin.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Buffers.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Diagnostics.DiagnosticSource.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.IO.Pipelines.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Memory.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Numerics.Vectors.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Encodings.Web.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Json.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Channels.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Tasks.Extensions.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.ValueTuple.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebGrease.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\EntityFramework.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.pdb
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.BL.dll.config
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.Models.pdb
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Antlr3.Runtime.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Client.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Client.Core.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Common.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Options.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Extensions.Primitives.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Microsoft.Owin.Security.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\Newtonsoft.Json.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Buffers.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Diagnostics.DiagnosticSource.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.IO.Pipelines.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Memory.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Numerics.Vectors.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Encodings.Web.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Text.Json.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Channels.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.Threading.Tasks.Extensions.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\System.ValueTuple.xml
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.pdb
+D:\WebServiceAltamira\dev\WebServiceOperacional\bin\WebServicesOperacional.DATA.dll.config
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.AssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CoreCompileInputs.cache
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceAltamira.csproj.CopyComplete
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.dll
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Debug\WebServiceOperacional.pdb

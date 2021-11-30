@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE54758A-6D85-4E96-BDF0-5FA23113237E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebServicesOperacional.DATA</RootNamespace>
+    <AssemblyName>WebServicesOperacional.DATA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\Documents\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAvisos.cs">
+      <DependentUpon>DCOMAvisos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DCOMAvisos.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DCOMAvisos.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DCOMAvisos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DCOMAvisos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DCOMAvisos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DCOMAvisos.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DCOMEntities.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DCOMEntities.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DCOMEntities.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DCOMEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DCOMEntities.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DCOMEntities.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="GET_COMUNIDADES.cs">
+      <DependentUpon>OPERACIONAL_AAMEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GET_TRIBUTOS.cs">
+      <DependentUpon>OPERACIONAL_AAMEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPERACIONAL_AAMEntities.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OPERACIONAL_AAMEntities.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPERACIONAL_AAMEntities.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OPERACIONAL_AAMEntities.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OPERACIONAL_AAMEntities.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OPERACIONAL_AAMEntities.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vwReferenciasIC2.cs">
+      <DependentUpon>DCOMEntities.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="OPERACIONAL_AAMEntities.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>OPERACIONAL_AAMEntities.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <EntityDeploy Include="DCOMEntities.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DCOMEntities.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="DCOMAvisos.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DCOMAvisos.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DCOMAvisos.edmx.diagram">
+      <DependentUpon>DCOMAvisos.edmx</DependentUpon>
+    </None>
+    <None Include="DCOMEntities.edmx.diagram">
+      <DependentUpon>DCOMEntities.edmx</DependentUpon>
+    </None>
+    <None Include="OPERACIONAL_AAMEntities.edmx.diagram">
+      <DependentUpon>OPERACIONAL_AAMEntities.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DCOMAvisos.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DCOMAvisos.edmx</DependentUpon>
+      <LastGenOutput>DCOMAvisos.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DCOMAvisos.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DCOMAvisos.edmx</DependentUpon>
+      <LastGenOutput>DCOMAvisos.cs</LastGenOutput>
+    </Content>
+    <Content Include="DCOMEntities.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DCOMEntities.edmx</DependentUpon>
+      <LastGenOutput>DCOMEntities.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="DCOMEntities.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DCOMEntities.edmx</DependentUpon>
+      <LastGenOutput>DCOMEntities.cs</LastGenOutput>
+    </Content>
+    <Content Include="OPERACIONAL_AAMEntities.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>OPERACIONAL_AAMEntities.Context.cs</LastGenOutput>
+      <DependentUpon>OPERACIONAL_AAMEntities.edmx</DependentUpon>
+    </Content>
+    <Content Include="OPERACIONAL_AAMEntities.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>OPERACIONAL_AAMEntities.edmx</DependentUpon>
+      <LastGenOutput>OPERACIONAL_AAMEntities.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

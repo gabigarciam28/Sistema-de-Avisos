@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Operacional_AAMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="GET_COMUNIDADES">
+    <Key>
+      <PropertyRef Name="PK_Activo1" />
+    </Key>
+    <Property Name="PK_ACTIVO" Type="Int32" />
+    <Property Name="IMP_TOTAL_CUOTA" Type="Decimal" Precision="38" Scale="2" />
+    <Property Name="Periodicidad_Cuota" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IMP_TOTAL_DERRAMA" Type="Decimal" Precision="38" Scale="2" />
+    <Property Name="Periodicidad_Derrama" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ID_INMUEBLE" Type="Int32" />
+    <Property Name="PK_Activo1" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GET_TRIBUTOS">
+    <Key>
+      <PropertyRef Name="PK_Activo1" />
+    </Key>
+    <Property Name="PK_ACTIVO" Type="Int32" />
+    <Property Name="Periodicidad_IBI" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IMP_IBI" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Periodicidad_Alcantarillado" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IMP_Alcantarillado" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Periodicidad_Basura" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IMP_Basura" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Periodicidad_Vado" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="IMP_Vado" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="Total_imp_otros" Type="Decimal" Precision="38" Scale="2" />
+    <Property Name="periodicidad_otros" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="ID_INMUEBLE" Type="Int32" />
+    <Property Name="PK_Activo1" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Operacional_AAMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="GET_COMUNIDADES" EntityType="Self.GET_COMUNIDADES" />
+    <EntitySet Name="GET_TRIBUTOS" EntityType="Self.GET_TRIBUTOS" />
+  </EntityContainer>
+</Schema>

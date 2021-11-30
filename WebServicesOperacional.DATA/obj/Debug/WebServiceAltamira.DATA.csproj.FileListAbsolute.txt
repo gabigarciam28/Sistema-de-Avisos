@@ -1,0 +1,17 @@
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\WebServicesOperacional.DATA.dll.config
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\WebServicesOperacional.DATA.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\WebServicesOperacional.DATA.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\EntityFramework.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServiceAltamira.DATA.csproj.CoreCompileInputs.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServiceAltamira.DATA.csproj.CopyComplete
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServicesOperacional.DATA.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServicesOperacional.DATA.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServiceAltamira.DATA.csprojAssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\WebServicesOperacional.DATA.dll.config
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\WebServicesOperacional.DATA.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\bin\Debug\WebServicesOperacional.DATA.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServiceAltamira.DATA.csproj.AssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServiceAltamira.DATA.csproj.CoreCompileInputs.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServiceAltamira.DATA.csproj.CopyComplete
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServicesOperacional.DATA.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.DATA\obj\Debug\WebServicesOperacional.DATA.pdb

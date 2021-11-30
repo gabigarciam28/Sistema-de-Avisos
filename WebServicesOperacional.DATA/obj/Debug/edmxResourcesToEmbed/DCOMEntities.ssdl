@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DCOM_AgregadoresModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DCOM_Agregadores.dbo.vwReferenciasIC2' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vwReferenciasIC2">
+    <Key>
+      <PropertyRef Name="IDINMUEBLE" />
+    </Key>
+    <Property Name="IDINMUEBLE" Type="int" Nullable="false" />
+    <Property Name="ESTANDAR" Type="nvarchar" MaxLength="4000" />
+    <Property Name="ALTERNATIVA" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityContainer Name="DCOM_AgregadoresModelStoreContainer">
+    <EntitySet Name="vwReferenciasIC2" EntityType="Self.vwReferenciasIC2" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vwReferenciasIC2].[IDINMUEBLE] AS [IDINMUEBLE], 
+    [vwReferenciasIC2].[ESTANDAR] AS [ESTANDAR], 
+    [vwReferenciasIC2].[ALTERNATIVA] AS [ALTERNATIVA]
+    FROM [dbo].[vwReferenciasIC2] AS [vwReferenciasIC2]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

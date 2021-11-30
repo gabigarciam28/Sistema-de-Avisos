@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9ecf098-f621-40fa-aae9-ef9c8f2f7ff6": {
+      "ProjectGuid": "d9ecf098-f621-40fa-aae9-ef9c8f2f7ff6",
+      "DisplayName": "WebServiceAltamira.BL",
+      "ColorIndex": 0
+    },
+    "4de9475f-4cc8-4506-af6a-1028346fcbf2": {
+      "ProjectGuid": "4de9475f-4cc8-4506-af6a-1028346fcbf2",
+      "DisplayName": "WebServiceAltamira",
+      "ColorIndex": 1
+    },
+    "ce54758a-6d85-4e96-bdf0-5fa23113237e": {
+      "ProjectGuid": "ce54758a-6d85-4e96-bdf0-5fa23113237e",
+      "DisplayName": "WebServiceAltamira.DATA",
+      "ColorIndex": 2
+    },
+    "3c955e13-5949-4443-a217-eb4c043f3eb3": {
+      "ProjectGuid": "3c955e13-5949-4443-a217-eb4c043f3eb3",
+      "DisplayName": "WebServiceAltamira.Models",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
