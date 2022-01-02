@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.SignalR.Client;
 using System;
+using System.Configuration;
 using System.IO;
 using System.Net;
 using WebServiceAltamira.Models;
@@ -21,8 +22,8 @@ namespace WebServiceAltamira.Client
             {
                 //AUTENTICACION EN WEB API
                 LoginRequest ModelLogin = new LoginRequest();
-                ModelLogin.Username = "AltamiraAAMHub";
-                ModelLogin.Password = ".Altamira$22.";
+                ModelLogin.Username = ConfigurationManager.AppSettings["MUsername"];
+                ModelLogin.Password = ConfigurationManager.AppSettings["MPassword"];
 
                 var json = Newtonsoft.Json.JsonConvert.SerializeObject(ModelLogin);
                 System.Text.UTF8Encoding encoding = new System.Text.UTF8Encoding();
