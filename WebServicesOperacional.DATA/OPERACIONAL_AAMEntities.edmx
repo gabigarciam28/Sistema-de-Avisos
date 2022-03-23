@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Operacional_AAMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Operacional_AAM.dbo.GET_COMUNIDADES' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="GET_COMUNIDADES">
+          <Key>
+            <PropertyRef Name="PK Activo" />
+          </Key>
+          <Property Name="PK_ACTIVO" Type="int" />
+          <Property Name="IMP_TOTAL_CUOTA" Type="decimal" Precision="38" Scale="2" />
+          <Property Name="Periodicidad_Cuota" Type="varchar(max)" />
+          <Property Name="IMP_TOTAL_DERRAMA" Type="decimal" Precision="38" Scale="2" />
+          <Property Name="Periodicidad_Derrama" Type="varchar(max)" />
+          <Property Name="ID_INMUEBLE" Type="int" />
+          <Property Name="PK Activo" Type="int" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Operacional_AAM.dbo.GET_TRIBUTOS' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="GET_TRIBUTOS">
+          <Key>
+            <PropertyRef Name="PK Activo" />
+          </Key>
+          <Property Name="PK_ACTIVO" Type="int" />
+          <Property Name="Periodicidad_IBI" Type="varchar(max)" />
+          <Property Name="IMP_IBI" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="Periodicidad_Alcantarillado" Type="varchar(max)" />
+          <Property Name="IMP_Alcantarillado" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="Periodicidad_Basura" Type="varchar(max)" />
+          <Property Name="IMP_Basura" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="Periodicidad_Vado" Type="varchar(max)" />
+          <Property Name="IMP_Vado" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="Total_imp_otros" Type="decimal" Precision="38" Scale="2" />
+          <Property Name="periodicidad_otros" Type="varchar(max)" />
+          <Property Name="ID_INMUEBLE" Type="int" />
+          <Property Name="PK Activo" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="Operacional_AAMModelStoreContainer">
+          <EntitySet Name="GET_COMUNIDADES" EntityType="Self.GET_COMUNIDADES" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [GET_COMUNIDADES].[PK_ACTIVO] AS [PK_ACTIVO], 
+    [GET_COMUNIDADES].[IMP_TOTAL_CUOTA] AS [IMP_TOTAL_CUOTA], 
+    [GET_COMUNIDADES].[Periodicidad_Cuota] AS [Periodicidad_Cuota], 
+    [GET_COMUNIDADES].[IMP_TOTAL_DERRAMA] AS [IMP_TOTAL_DERRAMA], 
+    [GET_COMUNIDADES].[Periodicidad_Derrama] AS [Periodicidad_Derrama], 
+    [GET_COMUNIDADES].[ID_INMUEBLE] AS [ID_INMUEBLE], 
+    [GET_COMUNIDADES].[PK Activo] AS [PK Activo]
+    FROM [dbo].[GET_COMUNIDADES] AS [GET_COMUNIDADES]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="GET_TRIBUTOS" EntityType="Self.GET_TRIBUTOS" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [GET_TRIBUTOS].[PK_ACTIVO] AS [PK_ACTIVO], 
+    [GET_TRIBUTOS].[Periodicidad_IBI] AS [Periodicidad_IBI], 
+    [GET_TRIBUTOS].[IMP_IBI] AS [IMP_IBI], 
+    [GET_TRIBUTOS].[Periodicidad_Alcantarillado] AS [Periodicidad_Alcantarillado], 
+    [GET_TRIBUTOS].[IMP_Alcantarillado] AS [IMP_Alcantarillado], 
+    [GET_TRIBUTOS].[Periodicidad_Basura] AS [Periodicidad_Basura], 
+    [GET_TRIBUTOS].[IMP_Basura] AS [IMP_Basura], 
+    [GET_TRIBUTOS].[Periodicidad_Vado] AS [Periodicidad_Vado], 
+    [GET_TRIBUTOS].[IMP_Vado] AS [IMP_Vado], 
+    [GET_TRIBUTOS].[Total_imp_otros] AS [Total_imp_otros], 
+    [GET_TRIBUTOS].[periodicidad_otros] AS [periodicidad_otros], 
+    [GET_TRIBUTOS].[ID_INMUEBLE] AS [ID_INMUEBLE], 
+    [GET_TRIBUTOS].[PK Activo] AS [PK Activo]
+    FROM [dbo].[GET_TRIBUTOS] AS [GET_TRIBUTOS]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Operacional_AAMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="GET_COMUNIDADES">
+          <Key>
+            <PropertyRef Name="PK_Activo1" />
+          </Key>
+          <Property Name="PK_ACTIVO" Type="Int32" />
+          <Property Name="IMP_TOTAL_CUOTA" Type="Decimal" Precision="38" Scale="2" />
+          <Property Name="Periodicidad_Cuota" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IMP_TOTAL_DERRAMA" Type="Decimal" Precision="38" Scale="2" />
+          <Property Name="Periodicidad_Derrama" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="ID_INMUEBLE" Type="Int32" />
+          <Property Name="PK_Activo1" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="GET_TRIBUTOS">
+          <Key>
+            <PropertyRef Name="PK_Activo1" />
+          </Key>
+          <Property Name="PK_ACTIVO" Type="Int32" />
+          <Property Name="Periodicidad_IBI" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IMP_IBI" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="Periodicidad_Alcantarillado" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IMP_Alcantarillado" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="Periodicidad_Basura" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IMP_Basura" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="Periodicidad_Vado" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IMP_Vado" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="Total_imp_otros" Type="Decimal" Precision="38" Scale="2" />
+          <Property Name="periodicidad_otros" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="ID_INMUEBLE" Type="Int32" />
+          <Property Name="PK_Activo1" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="Operacional_AAMEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="GET_COMUNIDADES" EntityType="Self.GET_COMUNIDADES" />
+          <EntitySet Name="GET_TRIBUTOS" EntityType="Self.GET_TRIBUTOS" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Operacional_AAMModelStoreContainer" CdmEntityContainer="Operacional_AAMEntities">
+          <EntitySetMapping Name="GET_COMUNIDADES">
+            <EntityTypeMapping TypeName="Operacional_AAMModel.GET_COMUNIDADES">
+              <MappingFragment StoreEntitySet="GET_COMUNIDADES">
+                <ScalarProperty Name="PK_ACTIVO" ColumnName="PK_ACTIVO" />
+                <ScalarProperty Name="IMP_TOTAL_CUOTA" ColumnName="IMP_TOTAL_CUOTA" />
+                <ScalarProperty Name="Periodicidad_Cuota" ColumnName="Periodicidad_Cuota" />
+                <ScalarProperty Name="IMP_TOTAL_DERRAMA" ColumnName="IMP_TOTAL_DERRAMA" />
+                <ScalarProperty Name="Periodicidad_Derrama" ColumnName="Periodicidad_Derrama" />
+                <ScalarProperty Name="ID_INMUEBLE" ColumnName="ID_INMUEBLE" />
+                <ScalarProperty Name="PK_Activo1" ColumnName="PK Activo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GET_TRIBUTOS">
+            <EntityTypeMapping TypeName="Operacional_AAMModel.GET_TRIBUTOS">
+              <MappingFragment StoreEntitySet="GET_TRIBUTOS">
+                <ScalarProperty Name="PK_ACTIVO" ColumnName="PK_ACTIVO" />
+                <ScalarProperty Name="Periodicidad_IBI" ColumnName="Periodicidad_IBI" />
+                <ScalarProperty Name="IMP_IBI" ColumnName="IMP_IBI" />
+                <ScalarProperty Name="Periodicidad_Alcantarillado" ColumnName="Periodicidad_Alcantarillado" />
+                <ScalarProperty Name="IMP_Alcantarillado" ColumnName="IMP_Alcantarillado" />
+                <ScalarProperty Name="Periodicidad_Basura" ColumnName="Periodicidad_Basura" />
+                <ScalarProperty Name="IMP_Basura" ColumnName="IMP_Basura" />
+                <ScalarProperty Name="Periodicidad_Vado" ColumnName="Periodicidad_Vado" />
+                <ScalarProperty Name="IMP_Vado" ColumnName="IMP_Vado" />
+                <ScalarProperty Name="Total_imp_otros" ColumnName="Total_imp_otros" />
+                <ScalarProperty Name="periodicidad_otros" ColumnName="periodicidad_otros" />
+                <ScalarProperty Name="ID_INMUEBLE" ColumnName="ID_INMUEBLE" />
+                <ScalarProperty Name="PK_Activo1" ColumnName="PK Activo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Operacional_AAMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Operacional_AAM.dbo.GET_COMUNIDADES' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="GET_COMUNIDADES">
+    <Key>
+      <PropertyRef Name="PK Activo" />
+    </Key>
+    <Property Name="PK_ACTIVO" Type="int" />
+    <Property Name="IMP_TOTAL_CUOTA" Type="decimal" Precision="38" Scale="2" />
+    <Property Name="Periodicidad_Cuota" Type="varchar(max)" />
+    <Property Name="IMP_TOTAL_DERRAMA" Type="decimal" Precision="38" Scale="2" />
+    <Property Name="Periodicidad_Derrama" Type="varchar(max)" />
+    <Property Name="ID_INMUEBLE" Type="int" />
+    <Property Name="PK Activo" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Operacional_AAM.dbo.GET_TRIBUTOS' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="GET_TRIBUTOS">
+    <Key>
+      <PropertyRef Name="PK Activo" />
+    </Key>
+    <Property Name="PK_ACTIVO" Type="int" />
+    <Property Name="Periodicidad_IBI" Type="varchar(max)" />
+    <Property Name="IMP_IBI" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Periodicidad_Alcantarillado" Type="varchar(max)" />
+    <Property Name="IMP_Alcantarillado" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Periodicidad_Basura" Type="varchar(max)" />
+    <Property Name="IMP_Basura" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Periodicidad_Vado" Type="varchar(max)" />
+    <Property Name="IMP_Vado" Type="decimal" Precision="10" Scale="2" />
+    <Property Name="Total_imp_otros" Type="decimal" Precision="38" Scale="2" />
+    <Property Name="periodicidad_otros" Type="varchar(max)" />
+    <Property Name="ID_INMUEBLE" Type="int" />
+    <Property Name="PK Activo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Operacional_AAMModelStoreContainer">
+    <EntitySet Name="GET_COMUNIDADES" EntityType="Self.GET_COMUNIDADES" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [GET_COMUNIDADES].[PK_ACTIVO] AS [PK_ACTIVO], 
+    [GET_COMUNIDADES].[IMP_TOTAL_CUOTA] AS [IMP_TOTAL_CUOTA], 
+    [GET_COMUNIDADES].[Periodicidad_Cuota] AS [Periodicidad_Cuota], 
+    [GET_COMUNIDADES].[IMP_TOTAL_DERRAMA] AS [IMP_TOTAL_DERRAMA], 
+    [GET_COMUNIDADES].[Periodicidad_Derrama] AS [Periodicidad_Derrama], 
+    [GET_COMUNIDADES].[ID_INMUEBLE] AS [ID_INMUEBLE], 
+    [GET_COMUNIDADES].[PK Activo] AS [PK Activo]
+    FROM [dbo].[GET_COMUNIDADES] AS [GET_COMUNIDADES]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="GET_TRIBUTOS" EntityType="Self.GET_TRIBUTOS" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [GET_TRIBUTOS].[PK_ACTIVO] AS [PK_ACTIVO], 
+    [GET_TRIBUTOS].[Periodicidad_IBI] AS [Periodicidad_IBI], 
+    [GET_TRIBUTOS].[IMP_IBI] AS [IMP_IBI], 
+    [GET_TRIBUTOS].[Periodicidad_Alcantarillado] AS [Periodicidad_Alcantarillado], 
+    [GET_TRIBUTOS].[IMP_Alcantarillado] AS [IMP_Alcantarillado], 
+    [GET_TRIBUTOS].[Periodicidad_Basura] AS [Periodicidad_Basura], 
+    [GET_TRIBUTOS].[IMP_Basura] AS [IMP_Basura], 
+    [GET_TRIBUTOS].[Periodicidad_Vado] AS [Periodicidad_Vado], 
+    [GET_TRIBUTOS].[IMP_Vado] AS [IMP_Vado], 
+    [GET_TRIBUTOS].[Total_imp_otros] AS [Total_imp_otros], 
+    [GET_TRIBUTOS].[periodicidad_otros] AS [periodicidad_otros], 
+    [GET_TRIBUTOS].[ID_INMUEBLE] AS [ID_INMUEBLE], 
+    [GET_TRIBUTOS].[PK Activo] AS [PK Activo]
+    FROM [dbo].[GET_TRIBUTOS] AS [GET_TRIBUTOS]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

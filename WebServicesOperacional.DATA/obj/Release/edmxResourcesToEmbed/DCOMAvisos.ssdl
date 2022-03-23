@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DCOMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DAvisos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodGrupoAvisos" Type="int" Nullable="false" />
+    <Property Name="CodGrupo" Type="int" />
+    <Property Name="CodTipoAviso" Type="int" Nullable="false" />
+    <Property Name="Icono" Type="varchar(max)" />
+    <Property Name="FechaInicio" Type="datetime" />
+    <Property Name="FechaFin" Type="datetime" />
+    <Property Name="Mensaje" Type="varchar(max)" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="Activo" Type="bit" Nullable="false" />
+    <Property Name="Html" Type="varchar(max)" />
+    <Property Name="IsCodigo" Type="bit" Nullable="false" />
+    <Property Name="Created" Type="datetime" />
+    <Property Name="Modified" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar(max)" />
+    <Property Name="ModifiedBy" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="DCOMModelStoreContainer">
+    <EntitySet Name="DAvisos" EntityType="Self.DAvisos" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

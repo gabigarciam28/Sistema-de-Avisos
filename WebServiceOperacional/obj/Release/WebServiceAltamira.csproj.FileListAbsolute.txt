@@ -1,0 +1,2 @@
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Release\WebServiceAltamira.csproj.AssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServiceOperacional\obj\Release\WebServiceAltamira.csproj.CoreCompileInputs.cache

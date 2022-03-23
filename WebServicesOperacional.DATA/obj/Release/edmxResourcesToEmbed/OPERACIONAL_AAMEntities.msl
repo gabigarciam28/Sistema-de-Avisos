@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Operacional_AAMModelStoreContainer" CdmEntityContainer="Operacional_AAMEntities">
+    <EntitySetMapping Name="GET_COMUNIDADES">
+      <EntityTypeMapping TypeName="Operacional_AAMModel.GET_COMUNIDADES">
+        <MappingFragment StoreEntitySet="GET_COMUNIDADES">
+          <ScalarProperty Name="PK_ACTIVO" ColumnName="PK_ACTIVO" />
+          <ScalarProperty Name="IMP_TOTAL_CUOTA" ColumnName="IMP_TOTAL_CUOTA" />
+          <ScalarProperty Name="Periodicidad_Cuota" ColumnName="Periodicidad_Cuota" />
+          <ScalarProperty Name="IMP_TOTAL_DERRAMA" ColumnName="IMP_TOTAL_DERRAMA" />
+          <ScalarProperty Name="Periodicidad_Derrama" ColumnName="Periodicidad_Derrama" />
+          <ScalarProperty Name="ID_INMUEBLE" ColumnName="ID_INMUEBLE" />
+          <ScalarProperty Name="PK_Activo1" ColumnName="PK Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GET_TRIBUTOS">
+      <EntityTypeMapping TypeName="Operacional_AAMModel.GET_TRIBUTOS">
+        <MappingFragment StoreEntitySet="GET_TRIBUTOS">
+          <ScalarProperty Name="PK_ACTIVO" ColumnName="PK_ACTIVO" />
+          <ScalarProperty Name="Periodicidad_IBI" ColumnName="Periodicidad_IBI" />
+          <ScalarProperty Name="IMP_IBI" ColumnName="IMP_IBI" />
+          <ScalarProperty Name="Periodicidad_Alcantarillado" ColumnName="Periodicidad_Alcantarillado" />
+          <ScalarProperty Name="IMP_Alcantarillado" ColumnName="IMP_Alcantarillado" />
+          <ScalarProperty Name="Periodicidad_Basura" ColumnName="Periodicidad_Basura" />
+          <ScalarProperty Name="IMP_Basura" ColumnName="IMP_Basura" />
+          <ScalarProperty Name="Periodicidad_Vado" ColumnName="Periodicidad_Vado" />
+          <ScalarProperty Name="IMP_Vado" ColumnName="IMP_Vado" />
+          <ScalarProperty Name="Total_imp_otros" ColumnName="Total_imp_otros" />
+          <ScalarProperty Name="periodicidad_otros" ColumnName="periodicidad_otros" />
+          <ScalarProperty Name="ID_INMUEBLE" ColumnName="ID_INMUEBLE" />
+          <ScalarProperty Name="PK_Activo1" ColumnName="PK Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DCOM_AgregadoresModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="vwReferenciasIC2">
+    <Key>
+      <PropertyRef Name="IDINMUEBLE" />
+    </Key>
+    <Property Name="IDINMUEBLE" Type="Int32" Nullable="false" />
+    <Property Name="ESTANDAR" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+    <Property Name="ALTERNATIVA" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="DCOMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="vwReferenciasIC2" EntityType="Self.vwReferenciasIC2" />
+  </EntityContainer>
+</Schema>

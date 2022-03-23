@@ -1,0 +1,54 @@
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll.config
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll.config
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csprojAssemblyReference.cache
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CoreCompileInputs.cache
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CopyComplete
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll.config
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll.config
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.AssemblyReference.cache
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CoreCompileInputs.cache
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CopyComplete
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll.config
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\EntityFramework.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll.config
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csprojAssemblyReference.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CoreCompileInputs.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CopyComplete
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll.config
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.BL.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.DATA.dll.config
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\bin\Debug\WebServicesOperacional.Models.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.AssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CoreCompileInputs.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServiceAltamira.BL.csproj.CopyComplete
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.BL\obj\Debug\WebServicesOperacional.BL.pdb

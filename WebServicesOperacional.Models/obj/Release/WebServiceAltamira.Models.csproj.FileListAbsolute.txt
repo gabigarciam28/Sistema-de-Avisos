@@ -1,0 +1,6 @@
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Release\WebServicesOperacional.Models.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Release\WebServicesOperacional.Models.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Release\WebServiceAltamira.Models.csproj.AssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Release\WebServiceAltamira.Models.csproj.CoreCompileInputs.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Release\WebServicesOperacional.Models.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Release\WebServicesOperacional.Models.pdb

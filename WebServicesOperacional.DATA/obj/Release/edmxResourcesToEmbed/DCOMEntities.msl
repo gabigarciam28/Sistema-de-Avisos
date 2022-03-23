@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DCOM_AgregadoresModelStoreContainer" CdmEntityContainer="DCOMEntities">
+    <EntitySetMapping Name="vwReferenciasIC2">
+      <EntityTypeMapping TypeName="DCOM_AgregadoresModel.vwReferenciasIC2">
+        <MappingFragment StoreEntitySet="vwReferenciasIC2">
+          <ScalarProperty Name="IDINMUEBLE" ColumnName="IDINMUEBLE" />
+          <ScalarProperty Name="ESTANDAR" ColumnName="ESTANDAR" />
+          <ScalarProperty Name="ALTERNATIVA" ColumnName="ALTERNATIVA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DCOMModelStoreContainer" CdmEntityContainer="DCOMEntities4">
+    <EntitySetMapping Name="DAvisos">
+      <EntityTypeMapping TypeName="DCOMModel.DAvisos">
+        <MappingFragment StoreEntitySet="DAvisos">
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="Modified" ColumnName="Modified" />
+          <ScalarProperty Name="Created" ColumnName="Created" />
+          <ScalarProperty Name="IsCodigo" ColumnName="IsCodigo" />
+          <ScalarProperty Name="Html" ColumnName="Html" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Mensaje" ColumnName="Mensaje" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="Icono" ColumnName="Icono" />
+          <ScalarProperty Name="CodTipoAviso" ColumnName="CodTipoAviso" />
+          <ScalarProperty Name="CodGrupo" ColumnName="CodGrupo" />
+          <ScalarProperty Name="CodGrupoAvisos" ColumnName="CodGrupoAvisos" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

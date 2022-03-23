@@ -1,0 +1,22 @@
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServiceAltamira.Models.csproj.CoreCompileInputs.cache
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Documents\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServiceAltamira.Models.csproj.CoreCompileInputs.cache
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAM01166H\Desktop\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.pdb
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServiceAltamira.Models.csprojAssemblyReference.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServiceAltamira.Models.csproj.CoreCompileInputs.cache
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.dll
+C:\Users\AAE06490H\Source\Workspaces\Workspace\Sistemas Comerciales\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\bin\Debug\WebServicesOperacional.Models.pdb
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServiceAltamira.Models.csproj.AssemblyReference.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServiceAltamira.Models.csproj.CoreCompileInputs.cache
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.dll
+D:\WebServiceAltamira\dev\WebServicesOperacional.Models\obj\Debug\WebServicesOperacional.Models.pdb
